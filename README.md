@@ -3,11 +3,10 @@
 ***A local two player, 2D shooter game where you both play as laser eyed demons that won't stop until the other is eliminated...***
 
 **Featuring 8 direction shooting with steady ammo reload, a player on player collision system, health bars, movement animations and a platform with a sneaky edge you don't want to slip off!**
+<br><br><br>
+![opening screen image](https://github.com/HarisSul/Demon-Duel/blob/main/img/opening_screen.jpg?raw=true)
 
-
-[opening screen image](https://github.com/[harisSul]/[demon-duel]/blob/[main]/opening_screen.jpg?raw=true)
-
-[in game image](https://github.com/[harisSul]/[demon-duel]/blob/[main]/in_game.jpg?raw=true)
+![in game image](https://github.com/HarisSul/Demon-Duel/blob/main/img/in_game.jpg?raw=true)
 
 
 ## Attributions
@@ -31,4 +30,4 @@
 - Source: https://opengameart.org/content/fantastic-battle-music-piano-electronic
 - License: OGA-BY 3.0
 
-Sound effects generated with BFXR: https://www.bfxr.net/
+Sound effects generated with [BFXR](https://www.bfxr.net/)
